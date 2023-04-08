@@ -1,0 +1,47 @@
+.flex {
+  display: flex;
+}
+
+.item-center {
+  align-items: center;
+}
+
+.justify-center {
+  justify-content: center;
+}
+
+.uppercase {
+  text-transform: uppercase;
+}
+
+.semibold {
+  font-weight: bolder;
+}
+
+.space-between {
+  justify-content: space-between;
+}
+
+.mx-2 {
+  margin: 0px 12px;
+}
+
+.search {
+  width: 20vw;
+  padding: 7px 17px;
+  border: none;
+  border-radius: 5px;
+  background-color: #f0e9e9;
+}
+
+.my-2 {
+  margin-top: 13px;
+  padding: 23px 0;
+  text-align: center;
+  font-size: 1.2rem;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+.shadow {
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
